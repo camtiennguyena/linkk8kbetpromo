@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
+8kbet Promo - Trang Chủ Nhà cái 8KBET Đăng Nhập Chính Thức
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`8kbet <https://8kbet.promo/>`_ là một trong những nhà cái hàng đầu Việt Nam. Thành lập ngày 6/4/2013, với hơn 600 sản phẩm trò chơi cá cược từ casino, game bài, nổ hũ đến các trò chơi thể thao, 8k bet đã thu hút hơn 8,800,000 người chơi tham gia.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+8kbet được cấp phép bởi Cơ quan Quản lý Anh (UKGC), đảm bảo mọi hoạt động đều tuân thủ tiêu chuẩn cao nhất về an toàn và minh bạch. Giao diện thân thiện, hỗ trợ trên cả máy tính lẫn thiết bị di động, cùng hệ thống bảo mật tiên tiến, giúp người chơi yên tâm trải nghiệm.
 
-.. note::
+8kbet.promo hay 8KBET PROMO là link truy cập chính thức và không bị chặn của nhà cái 8kbet
 
-   This project is under active development.
+Thông tin liên hệ: 
 
-Contents
---------
+Địa chỉ: 1330 Đ. Vĩnh Lộc, Vĩnh Lộc B, Bình Chánh, Hồ Chí Minh, Vietnam. 
 
-.. toctree::
+Phone: 0777547102. 
 
-   usage
-   api
+Email: info@8kbet.promo. 
+
+Website: https://8kbet.promo/ 
+
+#8kbet #trangchu8kbet #dangky8kbet #dangnhap8kbet #link8kbet #8kbet_promo #8kbet_casino #nhacai8kbet
